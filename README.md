@@ -1,6 +1,6 @@
 Desarrolle una base de datos que permita manejar los pagos históricos que se hacen a los
 empleados, para lo cual deberá diseñar las siguientes tablas:
-
+![alt text](image.png)
 
 Con base en lo anterior usted deberá crear: Modelos, Repositorios, servicios y
 controladores que permitan realizar estas tareas:
